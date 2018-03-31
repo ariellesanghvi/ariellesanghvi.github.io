@@ -1,16 +1,31 @@
-## Welcome to GitHub Pages
+# My website
+hai
 
-You can use the [editor on GitHub](https://github.com/ariellesanghvi/ariellesanghvi.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Trying to figure out my lyfe
+Hi I am a graduating senior and I don't know what to do with my life. Help me decide!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Important Quotes
+My mom said, 
+> Become a doctor 
 
-### Markdown
+Guy from the panel said,
+> It's okay to take a nontraditional path
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### What should I do
+What should I do with my life?
+- go to graduate school for **geotechnical engineering**
+- do _nothing_
+- something else...
 
-```markdown
-Syntax highlighted code block
+![Definitely Lost](https://media.giphy.com/media/mPytjcsG3XS4o/giphy.gif)
 
+### I wanna cry
+This is me everyday
+
+![Crying](https://media.giphy.com/media/8y37L91bd8Uda/giphy.gif)
+
+
+<!-- ```
 # Header 1
 ## Header 2
 ### Header 3
@@ -24,7 +39,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
@@ -34,4 +49,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out. -->
