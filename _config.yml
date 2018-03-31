@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
+plugins:
+- jemoji
 title: What is my life
 description: help idk what to do with my lyfe 
