@@ -1,10 +1,12 @@
-# My website
-hai
 
-## Trying to figure out my lyfe
+# My website
+
+:shit: :shit: :shit: :shit: :shit: :shit: :shit: :shit: :shit:
+
+## :thought_balloon: Trying to figure out my lyfe :thought_balloon:
 Hi I am a graduating senior and I don't know what to do with my life. Help me decide!
 
-### Important Quotes
+### Important Quotes :trollface:
 My mom said, 
 > Become a doctor 
 
@@ -19,7 +21,7 @@ What should I do with my life?
 
 ![Definitely Lost](https://media.giphy.com/media/mPytjcsG3XS4o/giphy.gif)
 
-### I wanna cry
+### :rage3: I wanna cry :rage3:
 This is me everyday
 
 ![Crying](https://media.giphy.com/media/8y37L91bd8Uda/giphy.gif)
