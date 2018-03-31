@@ -1,5 +1,13 @@
-theme: jekyll-theme-minimal
 plugins:
-- jemoji
+ - jekyll-feed
+ - jekyll-redirect-from
+ - jekyll-seo-tag
+ - jekyll-sitemap
+ - jekyll-avatar
+ - jemoji
+ - jekyll-mentions
+ - jekyll-include-cache
+theme: jekyll-theme-minimal
+
 title: What is my life
 description: help idk what to do with my lyfe 
